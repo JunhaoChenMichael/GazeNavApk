@@ -18,7 +18,7 @@ Besides assisting individuals with MND and other disabilities, the potential of 
 
 To enhance user engagement, we will introduce an interactive side menu for each object within the scene. This menu will expand the functionality and interactivity of objects, providing users with additional information and actions that can be accessed through gaze selection. Furthermore, our project will prioritize user comfort and adaptability, ensuring that the gaze tracking system is responsive and accurate without causing undue strain or fatigue.
 
-By pushing the boundaries of XR technology, we aim to create immersive and practical experiences that cater to a diverse range of needs. Whether it's aiding emergency responders in critical situations, assisting surgeons during complex medical procedures, or enabling individuals with disabilities to interact with technology in new ways, the potential applications of gaze tracking in XR scenes are vast and compelling. This project stands at the intersection of technology and human-centric design, endeavoring to make XR experiences more intuitive, accessible, and effective for all users.
+
 
 ## Implementation
 
@@ -40,4 +40,14 @@ The first thing is we are not familiar with the PICO SDK, it took us some time t
 
 
 ## What did you learn?
+Throughout the development of GazeNavApk, our learning curve was steep but rewarding. Here are the key areas where we gained significant knowledge and expertise:
+
+Mastering Pico Unity SDK: Our first major learning milestone was understanding and utilizing the Pico Unity SDK. This involved delving into the intricacies of the software, comprehending its documentation, and learning how to effectively integrate it into our project. Mastering this SDK was crucial, as it formed the backbone of our development process, enabling us to harness the full potential of the Pico Neo 3 Pro Eye hardware.
+
+Working with Gaze and Blink Data: Another significant area of learning was in handling gaze and blink data. This entailed understanding the nuances of eye-tracking technology, particularly how to accurately capture and interpret gaze direction and blink patterns. We learned to differentiate between intentional and involuntary blinks, and how to translate these into meaningful interactions within our UI. This knowledge was critical in ensuring that our system was intuitive and responsive to the user's intentions.
+
+UI Design for Eye-Based Interaction: Perhaps one of the most challenging and enlightening aspects was learning how to design a user interface specifically for eye-based interaction. This required a shift from traditional UI design principles, as we had to consider factors like gaze tracking accuracy, ease of selection, and minimizing eye strain. We explored different layouts, iconography, and interaction models to ensure that our UI was not only functional but also user-friendly and accessible. The process taught us a great deal about the importance of design ergonomics and user experience in the context of non-traditional interaction methods.
+
+Each of these learning experiences contributed significantly to our development journey, enriching our skills and understanding, and ultimately leading to the creation of a more refined and effective product.
+
 

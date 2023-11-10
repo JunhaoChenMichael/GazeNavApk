@@ -1,4 +1,4 @@
-# GazeNav
+# GazeNav: An Eye Gaze and Blink-based XR User Interaction
 
 ## Introduction
 Gaze tracking is a rapidly developing field of research, and there have been a number of recent advances in gaze tracking for XR. For example, new eye-tracking hardware is becoming more accurate and affordable, and new software algorithms are being developed to improve the accuracy and robustness of gaze tracking in real-world environments.
